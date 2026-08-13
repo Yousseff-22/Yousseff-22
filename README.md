@@ -25,14 +25,11 @@ I'm **Youssef Khaled**, a 4th-year Computer Science student specializing in **Ar
 
 I build intelligent systems and turn AI concepts into practical, real-world applications — from classical ML pipelines to LLM-powered agents.
 
-**Core interests:**
+**What I work with day-to-day:**
 
 * 🤖 Machine Learning & Deep Learning
 * 👁️ Computer Vision
 * 🗣️ Natural Language Processing (NLP)
-* 🔎 Retrieval-Augmented Generation (RAG)
-* ✨ Generative AI & Large Language Models
-* 🤖 AI Agents & Intelligent Automation
 * 📊 Data Science & Data Analysis
 
 ---
@@ -137,23 +134,23 @@ Topics: LLMs, AI Agents, Prompt Engineering, RAG, Machine Learning, Data Cleanin
 
 # 📚 Currently Learning
 
-Advanced Deep Learning · Advanced Computer Vision · NLP & LLMs · RAG · AI Agents · AI Model Deployment · MLOps & AI Engineering
+Deepening my skills in **Generative AI, LLMs, RAG, and AI Agents**, plus AI Model Deployment & MLOps — moving from experimenting with these to shipping them in production.
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Yousseff-22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousseff-22&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yousseff-22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousseff-22&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Yousseff-22&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com?user=Yousseff-22&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Yousseff-22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+<img height="100" src="https://github-profile-trophy.vercel.app/?username=Yousseff-22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
 ---
